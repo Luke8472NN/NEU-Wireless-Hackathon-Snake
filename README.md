@@ -3,6 +3,8 @@ Northeastern University Wireless Club 11/11/16 Hackathon Snake Game.
 
 Copied from my old profile, https://github.com/Luke8472
 
+Eternally grateful for https://github.com/devendrashivraj for the board design!
+
 ## Description
 A Snake Game coded in Arduino and uploaded to an Arduino Uno. A PCB was designed as a shield for the Arduino Uno, and to house all electronic components.
 
